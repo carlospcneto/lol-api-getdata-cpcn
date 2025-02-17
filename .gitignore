@@ -1,0 +1,5 @@
+creadentials.yaml
+*.log*
+.DS_Store
+*.pyc*
+.venv*
